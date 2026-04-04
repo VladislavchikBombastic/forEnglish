@@ -9,3 +9,5 @@ Subtrahend, Вычитаемое, Второе число (которое выч
 Difference, Разность, Результат операции вычитания, "result_difference = 7"
 Minus, Минус, Союз/предлог для текстового описания формулы, "ten minus three"
 Equals, Равно, Глагол-связка для текстового вывода результата, "equals four"
+Multiplication, Умножение, Название самой операции (существительное), "operation_type = Multiplication"
+Factor, Множитель, Любое число участвующее в умножении, first_factor = 4
